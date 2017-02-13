@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/firewall",
+    "name": "fgreinus/antonioribeiro-firewall",
 
     "description": "A Laravel 4.1+ IP whitelisting and blacklisting",
 
@@ -31,12 +31,6 @@
     "autoload": {
         "psr-4": {
             "PragmaRX\\Firewall\\": "src/"
-        }
-    },
-
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.5.x-dev"
         }
     }
 }
